@@ -1,0 +1,3 @@
+google-chrome.deb
+packages.txt
+vscode.deb
