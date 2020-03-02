@@ -13,3 +13,6 @@ sudo snap install spotify
 sudo apt install git
 sudo dpkg -i ./packages/vscode.deb
 
+
+#Web Development clis
+sudo npm install -g create-react-app gatsby-cli

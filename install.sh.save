@@ -1,0 +1,6 @@
+#!bin/sh
+
+#Install Google Chrome
+
+# 1. Add Key
+wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
